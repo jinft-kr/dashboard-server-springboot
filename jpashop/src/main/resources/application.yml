@@ -14,3 +14,4 @@ spring:
 logging:
   level:
     org.hiberneate.SQL: debug
+    org.hibernate.type: trace # parameter value 보여주는 설정
